@@ -10,6 +10,8 @@ import {
 import FlatCard from './FlatCard';
 import Elevatedcards from './Elevatedcards';
 import FancyCard from './FancyCard';
+import ActionCard from './ActionCard';
+import ContactList from './ContactList';
 
 
 function App(){
@@ -20,6 +22,8 @@ function App(){
             <FlatCard/>
             <Elevatedcards/>
             <FancyCard/>
+            <ContactList/>
+            <ActionCard/>
           </View>
         </ScrollView>
       </SafeAreaView>
