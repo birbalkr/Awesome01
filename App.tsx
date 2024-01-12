@@ -12,6 +12,7 @@ import Elevatedcards from './Elevatedcards';
 import FancyCard from './FancyCard';
 import ActionCard from './ActionCard';
 import ContactList from './ContactList';
+import Password from './Password';
 
 
 function App(){
@@ -23,6 +24,7 @@ function App(){
             <Elevatedcards/>
             <FancyCard/>
             <ContactList/>
+            <Password/>
             <ActionCard/>
           </View>
         </ScrollView>
